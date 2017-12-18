@@ -18,7 +18,7 @@
             >
 
             <EditText
-                android:id="@+id/userNameEditText"
+                android:id="@+id/IdEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -72,13 +72,14 @@
             >
 
             <Button
+                android:id="@+id/joinButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/joinButton"
-                android:text="Join"
                 android:layout_marginLeft="55dp"
                 android:layout_marginRight="45dp"
-                android:onClick="joinButtonClick"/>
+                android:onClick="joinButtonClick"
+                android:text="Join"
+                android:enabled="false"/>
 
             <Button
                 android:layout_width="wrap_content"

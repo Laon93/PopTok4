@@ -22,6 +22,12 @@
             </intent-filter>
 
         </activity>
+        <activity android:name=".ChangePasswordActivity"></activity>
+        <activity android:name=".DrawMapActivity"></activity>
+        <activity android:name=".SettingMenuActivity"></activity>
+        <activity android:name=".JoinActivity"></activity>
+        <activity android:name=".ChangeNickNameActivity"></activity>
+        <activity android:name=".FindPasswordActivity"></activity>
 
         <meta-data
             android:name="com.kakao.sdk.AppKey"

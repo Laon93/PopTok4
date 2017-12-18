@@ -81,7 +81,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="변경할 닉네임을 입력하세요"
-            android:inputType="textEmailAddress"
+            android:onClick = "changeNickNameTextClick"
             android:padding="10dp" />
         <!-- 여기에 체크박스 추가해서 넣기 그리고 버튼? 같은 형식으로 할 수 있으면 하기.-->
 
