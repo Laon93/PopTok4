@@ -4,17 +4,13 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-/**
- * Created by BIT on 2017-12-18.
- */
+
 
 public class JoinActivity extends AppCompatActivity {
 
-    private int ;
 
     @Override
     protected void onCreate(Bundle saveInstanceState)
@@ -63,6 +59,9 @@ public class JoinActivity extends AppCompatActivity {
         if(Util.validateEmail(email.getText().toString()))
         {
             if(password.getText().toString() == passwordConfirm.getText().toString())
+            {
+
+            }
 
         }
 

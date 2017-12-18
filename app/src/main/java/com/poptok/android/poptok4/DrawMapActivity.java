@@ -8,9 +8,6 @@ import android.view.ViewGroup;
 import net.daum.mf.map.api.MapPoint;
 import net.daum.mf.map.api.MapView;
 
-/**
- * Created by BIT on 2017-12-15.
- */
 
 public class DrawMapActivity extends AppCompatActivity{
 

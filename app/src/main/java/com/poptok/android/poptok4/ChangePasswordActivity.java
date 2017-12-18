@@ -6,9 +6,7 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 
-/**
- * Created by BIT on 2017-12-15.
- */
+
 
 public class ChangePasswordActivity extends AppCompatActivity {
 

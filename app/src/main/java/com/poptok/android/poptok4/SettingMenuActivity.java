@@ -3,9 +3,7 @@ package com.poptok.android.poptok4;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-/**
- * Created by BIT on 2017-12-15.
- */
+
 
 public class SettingMenuActivity extends AppCompatActivity {
 

@@ -7,9 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.EditText;
 import android.widget.Toast;
 
-/**
- * Created by BIT on 2017-12-18.
- */
+
 
 public class ChangeNickNameActivity extends AppCompatActivity {
 

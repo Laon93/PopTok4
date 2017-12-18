@@ -6,9 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 
-/**
- * Created by BIT on 2017-12-05.
- */
+
 
 public class MainActivity extends AppCompatActivity {
 
